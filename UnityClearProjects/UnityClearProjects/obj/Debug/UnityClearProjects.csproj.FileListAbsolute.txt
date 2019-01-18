@@ -1,0 +1,33 @@
+D:\Files\Google Drive\Development\06-Projects\UnityClearProjects\UnityClearProjects\UnityClearProjects\obj\Debug\UnityClearProjects.Main.resources
+D:\Files\Google Drive\Development\06-Projects\UnityClearProjects\UnityClearProjects\UnityClearProjects\obj\Debug\UnityClearProjects.Properties.Resources.resources
+D:\Files\Google Drive\Development\06-Projects\UnityClearProjects\UnityClearProjects\UnityClearProjects\obj\Debug\UnityClearProjects.csproj.GenerateResource.Cache
+D:\Files\Google Drive\Development\06-Projects\UnityClearProjects\UnityClearProjects\UnityClearProjects\obj\Debug\UnityClearProjects.csprojResolveAssemblyReference.cache
+D:\Files\Google Drive\Development\06-Projects\UnityClearProjects\UnityClearProjects\UnityClearProjects\obj\Debug\UnityClearProjects.AboutBox.resources
+D:\Files\Google Drive\Development\06-Projects\UnityClearProjects\UnityClearProjects\UnityClearProjects\bin\Debug\Unity Clear Projects.exe.config
+D:\Files\Google Drive\Development\06-Projects\UnityClearProjects\UnityClearProjects\UnityClearProjects\bin\Debug\Unity Clear Projects.exe
+D:\Files\Google Drive\Development\06-Projects\UnityClearProjects\UnityClearProjects\UnityClearProjects\bin\Debug\Unity Clear Projects.pdb
+D:\Files\Google Drive\Development\06-Projects\UnityClearProjects\UnityClearProjects\UnityClearProjects\obj\Debug\Unity Clear Projects.exe
+D:\Files\Google Drive\Development\06-Projects\UnityClearProjects\UnityClearProjects\UnityClearProjects\obj\Debug\Unity Clear Projects.pdb
+F:\Files\Google Drive\Development\06-Projects\UnityClearProjects\UnityClearProjects\UnityClearProjects\bin\Debug\Unity Clear Projects.exe.config
+F:\Files\Google Drive\Development\06-Projects\UnityClearProjects\UnityClearProjects\UnityClearProjects\obj\Debug\Unity Clear Projects.exe
+F:\Files\Google Drive\Development\06-Projects\UnityClearProjects\UnityClearProjects\UnityClearProjects\obj\Debug\Unity Clear Projects.pdb
+F:\Files\Google Drive\Development\06-Projects\UnityClearProjects\UnityClearProjects\UnityClearProjects\bin\Debug\Unity Clear Projects.exe
+F:\Files\Google Drive\Development\06-Projects\UnityClearProjects\UnityClearProjects\UnityClearProjects\bin\Debug\Unity Clear Projects.pdb
+F:\Files\Google Drive\Development\06-Projects\UnityClearProjects\UnityClearProjects\UnityClearProjects\obj\Debug\UnityClearProjects.csprojResolveAssemblyReference.cache
+F:\Files\Google Drive\Development\06-Projects\UnityClearProjects\UnityClearProjects\UnityClearProjects\obj\Debug\UnityClearProjects.AboutBox.resources
+F:\Files\Google Drive\Development\06-Projects\UnityClearProjects\UnityClearProjects\UnityClearProjects\obj\Debug\UnityClearProjects.Properties.Resources.resources
+F:\Files\Google Drive\Development\06-Projects\UnityClearProjects\UnityClearProjects\UnityClearProjects\obj\Debug\UnityClearProjects.csproj.GenerateResource.Cache
+F:\Files\Google Drive\Development\06-Projects\UnityClearProjects\UnityClearProjects\UnityClearProjects\obj\Debug\UnityClearProjects.frmUndelete.resources
+F:\Files\Google Drive\Development\06-Projects\UnityClearProjects\UnityClearProjects\UnityClearProjects\obj\Debug\UnityClearProjects.frmMain.resources
+D:\Projects\UnityClearProjects\UnityClearProjects\UnityClearProjects\obj\Debug\UnityClearProjects.AboutBox.resources
+D:\Projects\UnityClearProjects\UnityClearProjects\UnityClearProjects\obj\Debug\UnityClearProjects.frmUndelete.resources
+D:\Projects\UnityClearProjects\UnityClearProjects\UnityClearProjects\obj\Debug\UnityClearProjects.frmMain.resources
+D:\Projects\UnityClearProjects\UnityClearProjects\UnityClearProjects\obj\Debug\UnityClearProjects.csproj.GenerateResource.Cache
+D:\Projects\UnityClearProjects\UnityClearProjects\UnityClearProjects\obj\Debug\UnityClearProjects.csproj.CoreCompileInputs.cache
+D:\Projects\UnityClearProjects\UnityClearProjects\UnityClearProjects\obj\Debug\UnityProgramManager.Properties.Resources.resources
+D:\Projects\UnityClearProjects\UnityClearProjects\UnityClearProjects\bin\Debug\UnityProgramManager.exe.config
+D:\Projects\UnityClearProjects\UnityClearProjects\UnityClearProjects\bin\Debug\UnityProgramManager.exe
+D:\Projects\UnityClearProjects\UnityClearProjects\UnityClearProjects\bin\Debug\UnityProgramManager.pdb
+D:\Projects\UnityClearProjects\UnityClearProjects\UnityClearProjects\obj\Debug\UnityProgramManager.exe
+D:\Projects\UnityClearProjects\UnityClearProjects\UnityClearProjects\obj\Debug\UnityProgramManager.pdb
+D:\Projects\UnityClearProjects\UnityClearProjects\UnityClearProjects\obj\Debug\UnityClearProjects.csprojAssemblyReference.cache
